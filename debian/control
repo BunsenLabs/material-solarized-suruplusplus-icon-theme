@@ -1,0 +1,20 @@
+Source: material-solarized-suru++-icon-theme
+Section: x11
+Priority: optional
+Maintainer: John Crawley <john@bunsenlabs.org>
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.6.1.0
+Rules-Requires-Root: no
+Homepage: https://github.com/BunsenLabs/material-solarized-suru++-icon-theme
+Vcs-Git: https://github.com/BunsenLabs/material-solarized-suru++-icon-theme.git
+Vcs-Browser: https://github.com/BunsenLabs/material-solarized-suru++-icon-theme
+
+Package: material-solarized-suru++-icon-theme
+Architecture: all
+Depends: ${misc:Depends}, librsvg2-common
+Description: Material-Solarized-Suru++ icon set
+ From rtl88-Themes, this is the Material-Solarized-Suru++ icon set
+ from the Material-Solarized branch, packaged for BunsenLabs.
+.
+ Upstream repository:
+ https://github.com/rtlewis88/rtl88-Themes/tree/Material-Solarized
