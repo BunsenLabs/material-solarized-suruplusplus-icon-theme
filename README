@@ -6,7 +6,11 @@ https://github.com/rtlewis88/rtl88-Themes/tree/Material-Solarized
 
 The Material-Solarized-Suru++ icons have been packaged for BunsenLabs,
 but the details of all the original authors, copyright years and licenses
-are not clear.
+are not clear. See the index.theme file in Material-Solarized-Suru++/
+for some more information about contributors and licenses.
+
+Because of GitHub limitations on repository names, the repository and package
+are both named material-solarized-suruplusplus-icon-theme.
 
 ### License
 

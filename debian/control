@@ -1,20 +1,23 @@
-Source: material-solarized-suru++-icon-theme
+Source: material-solarized-suruplusplus-icon-theme
 Section: x11
 Priority: optional
 Maintainer: John Crawley <john@bunsenlabs.org>
 Build-Depends: debhelper-compat (= 13)
 Standards-Version: 4.6.1.0
 Rules-Requires-Root: no
-Homepage: https://github.com/BunsenLabs/material-solarized-suru++-icon-theme
-Vcs-Git: https://github.com/BunsenLabs/material-solarized-suru++-icon-theme.git
-Vcs-Browser: https://github.com/BunsenLabs/material-solarized-suru++-icon-theme
+Homepage: https://github.com/BunsenLabs/material-solarized-suruplusplus-icon-theme
+Vcs-Git: https://github.com/BunsenLabs/material-solarized-suruplusplus-icon-theme.git
+Vcs-Browser: https://github.com/BunsenLabs/material-solarized-suruplusplus-icon-theme
 
-Package: material-solarized-suru++-icon-theme
+Package: material-solarized-suruplusplus-icon-theme
 Architecture: all
 Depends: ${misc:Depends}, librsvg2-common
 Description: Material-Solarized-Suru++ icon set
  From rtl88-Themes, this is the Material-Solarized-Suru++ icon set
  from the Material-Solarized branch, packaged for BunsenLabs.
+.
+ The package is named material-solarized-suruplusplus-icon-theme
+ because of restrictions by GitHub on characters in repository names.
 .
  Upstream repository:
  https://github.com/rtlewis88/rtl88-Themes/tree/Material-Solarized
